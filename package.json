@@ -10,7 +10,8 @@
   "bugs": {
     "url": "https://github.com/2namkyung/nk-modules/issues"
   },
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "keywords": [
     "2nk"
   ],
