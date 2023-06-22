@@ -5,3 +5,4 @@ src/
 .eslintrc
 .prettierrc
 tsconfig.json
+.husky
