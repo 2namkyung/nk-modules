@@ -49,5 +49,11 @@
       "./__test__/setup.ts"
     ],
     "cacheDirectory": "./.jest/cache"
+  },
+  "lint-staged": {
+    "*.{js,ts}": [
+      "eslint --fix",
+      "prettier --write"
+    ]
   }
 }
